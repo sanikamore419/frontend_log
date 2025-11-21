@@ -1,4 +1,4 @@
-# sanika_frontend_journey
+# my-frontend-log
 # 🌐 Frontend Journey
 
 Welcome to my **Frontend Journey** – a personal space where I explore, experiment, and grow my skills in frontend development. This repository documents my progress, mini-projects, challenges, and resources as I learn and build with HTML, CSS, JavaScript, and modern frontend frameworks.
